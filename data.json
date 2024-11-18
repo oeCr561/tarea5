@@ -1,0 +1,39 @@
+[
+    {
+      "title": "Matilda",
+      "description": "Matilda es una niña excepcionalmente inteligente que, a pesar de vivir con unos padres negligentes, demuestra una gran capacidad mental y magia. A través de su valentía, cambia su destino y el de las personas que la rodean.",
+      "image": "matilda.jpg",
+      "cost": 200
+    },
+    {
+      "title": "El sobrino del mago",
+      "description": "Primera novela de la serie 'Las Crónicas de Narnia'. Narra el origen del mundo de Narnia y la creación de la puerta mágica que conecta dos mundos. La aventura comienza con Digory y Polly",
+      "image": "narnia.jpg",
+      "cost": 250
+    },
+    {
+      "title": "El principito",
+      "description": "La famosa historia de un pequeño príncipe que viaja por el universo, aprendiendo lecciones sobre la vida, el amor y la amistad. Un clásico que nos invita a mirar el mundo con ojos de niño.",
+      "image":"principito.jpg",
+      "cost": 180
+    },
+    {
+      "title": "Cuentos de los hermanos Grimm",
+      "description": "Una recopilación de cuentos tradicionales alemanes que incluyen clásicos como 'Blanca Nieves', 'Hansel y Gretel' y 'Cenicienta', llenos de magia, lecciones morales y personajes inolvidables.",
+      "image": "grimm.jpg",
+      "cost": 180
+    },
+    {
+      "title": "Eanorada de colin",
+      "description": "Enamorada de Colin novela es un libro de Urban romance, escrito por PRUDENCIA SANDOVAL: Serie Enamorada - Enamorada de Colin. La mayoría de la gente creería que una chica hermosa.",
+      "image": "enamorada de colin.jpg",
+      "cost": 150
+    },
+    {
+      "title": "La metamorfosis",
+      "description": "La célebre obra de Franz Kafka sobre Gregor Samsa, quien se despierta convertido en un insecto gigante. A través de su transformación, la novela explora la alienación y la naturaleza humana.",
+      "image": "meta.jpg",
+      "cost": 150
+    }
+]
+  
